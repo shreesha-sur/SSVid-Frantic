@@ -33,7 +33,7 @@ Forecasting Models: Researchers can utilize this dataset to develop forecasting 
 
 In conclusion, the "Fish Behavior and Water Quality Dataset" is a versatile resource for aquaculture research, offering insights into fish behavior and the development of predictive models for water quality parameters. It serves as a valuable asset for enhancing aquaculture practices and promoting sustainability in the industry.
 
-To download the dataset please fill the google form. Link is provided below. 
+To download the dataset please fill the google form. Link is provided below. Upon filling the google form you will reveive a link to download the entire dataset.
 https://docs.google.com/forms/d/e/1FAIpQLSdEGmdUTmqy4pqjpSyj9BAEvkexn0yZ95tJ2rqvMI-jy_bYOQ/viewform?usp=sf_link
 
 
