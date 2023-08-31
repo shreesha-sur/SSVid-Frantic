@@ -1,7 +1,7 @@
 # SSVid-Frantic
 **Frantic fish behaviour dataset:**
 
-![Sample-frame](https://github.com/shreesha-sur/SSVid-Frantic/assets/91935551/e060a22a-5695-4a53-9b53-3f97ec191474)
+![Sample-frame](https://github.com/shreesha-sur/SSVid-Frantic/assets/91935551/e060a22a-5695-4a53-9b53-3f97ec191474) width="600" height="300">
 
 **Description:**
 The "Aquaculture Behavior and Water Quality Dataset" is a comprehensive collection of data aimed at studying fish behavior, particularly the frantic patterns exhibited by Sillago sihama and Tilapia species. This dataset is intended for research purposes only and encompasses various aspects of aquaculture, including behavior analysis and water quality prediction.
