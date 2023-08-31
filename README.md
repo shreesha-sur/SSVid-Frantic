@@ -1,5 +1,6 @@
 # SSVid-Frantic
 **Frantic fish behaviour dataset:**
+
 ![Sample-frame](https://github.com/shreesha-sur/SSVid-Frantic/assets/91935551/e060a22a-5695-4a53-9b53-3f97ec191474)
 
 **Description:**
@@ -12,6 +13,7 @@ Objective: The primary objective of this dataset is to detect and understand fra
 Video Data: The dataset comprises a total of 16 videos, with 7 designated for training and 9 for testing. Each video ranges from 10 to 30 seconds in duration and is captured at a rate of 12 frames per second (fps). The objective is to classify each frame as "normal" (coded as 0) or "frantic" (coded as 1). Notably, all videos in the training set contain only normal fish behavior patterns, while the test set includes both normal and frantic behavior patterns.
 
 Fish Species: The dataset primarily focuses on the behavior of wild-caught Sillago sihama and Tilapia species, providing valuable insights into their stress responses and swimming patterns.
+
 ![GROUNDTRUTH_5](https://github.com/shreesha-sur/SSVid-Frantic/assets/91935551/b6963727-069b-4ec9-90bd-459251618da1)
 
 Real Cage Scenario: Additionally, a separate set of videos collected from real aquaculture cages is included. This subset contains videos that feature both normal and frantic fish behavior. Researchers can use these videos to assess the performance of their models in real-world aquaculture scenarios.
