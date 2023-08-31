@@ -1,7 +1,7 @@
 # SSVid-Frantic
 **Frantic fish behaviour dataset:**
 
-![Sample-frame]<img src= "https://github.com/shreesha-sur/SSVid-Frantic/assets/91935551/e060a22a-5695-4a53-9b53-3f97ec191474" width="600" height="300">
+<img src= "https://github.com/shreesha-sur/SSVid-Frantic/assets/91935551/e060a22a-5695-4a53-9b53-3f97ec191474" width="600" height="300">
 
 **Description:**
 The "Aquaculture Behavior and Water Quality Dataset" is a comprehensive collection of data aimed at studying fish behavior, particularly the frantic patterns exhibited by Sillago sihama and Tilapia species. This dataset is intended for research purposes only and encompasses various aspects of aquaculture, including behavior analysis and water quality prediction.
@@ -14,7 +14,7 @@ Video Data: The dataset comprises a total of 16 videos, with 7 designated for tr
 
 Fish Species: The dataset primarily focuses on the behavior of wild-caught Sillago sihama and Tilapia species, providing valuable insights into their stress responses and swimming patterns.
 
-![GROUNDTRUTH_5]<img src= "https://github.com/shreesha-sur/SSVid-Frantic/assets/91935551/b6963727-069b-4ec9-90bd-459251618da1" width="600" height="300">
+<img src= "https://github.com/shreesha-sur/SSVid-Frantic/assets/91935551/b6963727-069b-4ec9-90bd-459251618da1" width="600" height="300">
 
 Real Cage Scenario: Additionally, a separate set of videos collected from real aquaculture cages is included. This subset contains videos that feature both normal and frantic fish behavior. Researchers can use these videos to assess the performance of their models in real-world aquaculture scenarios.
 
@@ -23,11 +23,11 @@ Real Cage Scenario: Additionally, a separate set of videos collected from real a
 
 Objective: In addition to fish behavior, the dataset includes water quality parameters data, consisting of 7235 sample values for Temperature, Dissolved Oxygen, and Salinity. These parameters are sampled at 90-minute intervals, providing a comprehensive view of the aquatic environment. Figure below shows the plot of DO, Temperature and Salinity values. The dataset are tabulated in csv file.
 
-![DO_plot]<img src= "https://github.com/shreesha-sur/SSVid-Frantic/assets/91935551/8e1aaa1d-07eb-4429-80cf-b1a2f1c53994" width="600" height="300">
+<img src= "https://github.com/shreesha-sur/SSVid-Frantic/assets/91935551/8e1aaa1d-07eb-4429-80cf-b1a2f1c53994" width="600" height="300">
 
-![Temp_plot]<img src= "https://github.com/shreesha-sur/SSVid-Frantic/assets/91935551/62d7f025-e689-4aa2-912d-5024a36c6630" width="600" height="300">
+<img src= "https://github.com/shreesha-sur/SSVid-Frantic/assets/91935551/62d7f025-e689-4aa2-912d-5024a36c6630" width="600" height="300">
 
-![Salinity_plot]<img src= "https://github.com/shreesha-sur/SSVid-Frantic/assets/91935551/9b324db0-2297-464e-aef5-a30538375805" width="600" height="300">
+<img src= "https://github.com/shreesha-sur/SSVid-Frantic/assets/91935551/9b324db0-2297-464e-aef5-a30538375805" width="600" height="300">
 
 Forecasting Models: Researchers can utilize this dataset to develop forecasting models for water quality parameters. Deep learning or hybrid models can be employed to predict changes in temperature, dissolved oxygen levels, and salinity, offering valuable tools for managing aquaculture environments and optimizing fish health.
 
